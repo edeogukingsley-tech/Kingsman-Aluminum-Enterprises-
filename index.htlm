@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kingsman Aluminum Enterprises</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Kingsman Aluminum Enterprises</h1>
+        <p>Quality Roofing & Building Materials</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="home" class="hero">
+        <h2>Strong Roofs. Quality Materials.</h2>
+        <p>We provide quality zinc and building materials for your projects.</p>
+        <a href="#contact" class="button">Contact Us</a>
+    </section>
+
+    <section id="products">
+        <h2>What We Sell</h2>
+
+        <div class="products">
+            <div class="card">
+                <h3>Aluminium Roofing</h3>
+                <p>Quality roofing sheets for homes and buildings.</p>
+            </div>
+
+            <div class="card">
+                <h3>Zinc Roofing</h3>
+                <p>Strong and durable zinc roofing materials.</p>
+            </div>
+
+            <div class="card">
+                <h3>Building Materials</h3>
+                <p>Materials you need for your building projects.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Kingsman Aluminum Enterprises</h2>
+        <p>
+            We are committed to providing quality roofing and building
+            materials at good prices. Our goal is to help you build with
+            confidence.
+        </p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Call or WhatsApp: <strong>07017751785</strong></p>
+        <a href="https://wa.me/2347017751785" class="button">
+            Chat on WhatsApp
+        </a>
+    </section>
+
+    <footer>
+        <p>© 2026 Kingsman Aluminum Enterprises. All Rights Reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
